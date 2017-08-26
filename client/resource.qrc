@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons/cloud16.png</file>
+    <file>icons/cloud128.png</file>
+  </qresource>
+</RCC>
